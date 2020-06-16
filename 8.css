@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    width: 1366px;
+  color: white;
+    background-color: black;
+    text-align: center;
+    padding:50px 20px;
+    position: fixed;
+    top: 0;
+transition: 0.5s;
+}
+.noidung{
+    padding-top: 200px;
+    font-size: 20px;
+}
+#logo{
+    font-size: 40px;
+    transition: 0.5s;
+
+}
